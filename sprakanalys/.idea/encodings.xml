@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/Deutch.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Eesti.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Francais.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Italiano.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Norsk.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Suomi.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Svenska.txt" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

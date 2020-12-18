@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b236871-40b4-4f2b-b58a-f654b63474ae" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YborZf7jwxj7xgErC6ToQFhrRM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/company" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\albin\OneDrive - Arcada\datastruktureralgoritmer\sprakanalys" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\albin\OneDrive - Arcada\datastruktureralgoritmer\sprakanalys\src\com\company" />
+      <recent name="C:\Users\salmialb\IdeaProjects\sprakanalys\src\com\company" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="sprakanalys" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b236871-40b4-4f2b-b58a-f654b63474ae" name="Default Changelist" comment="" />
+      <created>1583220854131</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583220854131</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="677" y="347" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583324343829">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="677" y="347" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1583324343829" />
+    <state x="1128" y="590" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/2560.360.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1583228352191" />
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1584543217710">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584543217710" />
+    <state width="1340" height="272" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1583225328403" />
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom/2560.360.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1583245665940" />
+    <state width="1877" height="401" key="GridCell.Tab.0.bottom/2560.360.1920.1040/0.0.2560.1400@2560.360.1920.1040" timestamp="1583234296424" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1584543217710">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584543217710" />
+    <state width="1340" height="272" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1583225328402" />
+    <state width="2517" height="401" key="GridCell.Tab.0.center/2560.360.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1583245665940" />
+    <state width="1877" height="401" key="GridCell.Tab.0.center/2560.360.1920.1040/0.0.2560.1400@2560.360.1920.1040" timestamp="1583234296424" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1584543217709">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584543217709" />
+    <state width="1340" height="272" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1583225328402" />
+    <state width="2517" height="401" key="GridCell.Tab.0.left/2560.360.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1583245665940" />
+    <state width="1877" height="401" key="GridCell.Tab.0.left/2560.360.1920.1040/0.0.2560.1400@2560.360.1920.1040" timestamp="1583234296424" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1584543217710">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584543217710" />
+    <state width="1340" height="272" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1583225328403" />
+    <state width="2517" height="401" key="GridCell.Tab.0.right/2560.360.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1583245665940" />
+    <state width="1877" height="401" key="GridCell.Tab.0.right/2560.360.1920.1040/0.0.2560.1400@2560.360.1920.1040" timestamp="1583234296424" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1584543217712">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584543217712" />
+    <state width="1340" height="328" key="GridCell.Tab.1.bottom/2560.360.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1583244023326" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1584543217712">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1584543217712" />
+    <state width="1340" height="328" key="GridCell.Tab.1.center/2560.360.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1583244023326" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1584543217711">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1584543217711" />
+    <state width="1340" height="328" key="GridCell.Tab.1.left/2560.360.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1583244023326" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1584543217712">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1584543217712" />
+    <state width="1340" height="328" key="GridCell.Tab.1.right/2560.360.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1583244023326" />
+    <state x="495" y="268" key="com.intellij.ide.util.TipDialog" timestamp="1583329532103">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="495" y="268" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583329532103" />
+    <state x="541" y="329" key="com.intellij.ide.util.TipDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1583220858481" />
+    <state x="926" y="316" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583234009010">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="926" y="316" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/2560.360.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1583234009010" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1583331927723">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1583331927723" />
+  </component>
+</project>
